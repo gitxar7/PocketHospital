@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:595301943615:android:c37eb8b9aae0dd1a9aab8a",
+        "mobilesdk_app_id": "id",
         "android_client_info": {
           "package_name": "com.ar7enterprise.pockethospital"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCIfGae-flMcvFDI9HbZRYuSRHRH54WckI"
+          "current_key": "key"
         }
       ],
       "services": {
