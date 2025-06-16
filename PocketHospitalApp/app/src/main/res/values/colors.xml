@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gradient_1">#D1E25E</color>
+    <color name="gradient_2">#A7EAFF</color>
+
+    <color name="background">#F6F6F6</color>
+
+    <color name="primary">#4CAF50</color>
+    <color name="light_primary">#C8E6C9</color>
+    <color name="light_primary2">#B1D6B2</color>
+    <color name="dark_primary">#388E3C</color>
+    <color name="error">#D90909</color>
+    <color name="light_error">#FFBFBF</color>
+    <color name="secondary">#3A6B3C</color>
+    <color name="dark_secondary">#285329</color>
+</resources>

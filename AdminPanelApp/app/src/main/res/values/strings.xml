@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">AdminPanel</string>
+    <string name="app_name_full">Admin Panel</string>
+
+    <!--main-->
+    <string name="mt1">Welcome to Admin Panel</string>
+    <string name="mt2"><u>Change Password</u></string>
+
+    <string name="mt3">Search</string>
+    <string name="mt4"><u>Deactivate</u></string>
+    <string name="mt4x"><u>Activate</u></string>
+    <string name="mt5"><u>Cancel</u></string>
+    <string name="mt6"><u>Approve</u></string>
+    <string name="mt7">View</string>
+    <!--    <string name="mt8"><u>Add Results</u></string>-->
+    <string name="mt8"><u>View</u></string>
+    <string name="mt9"><u>Reject</u></string>
+    <string name="mt10">Loading...</string>
+    <string name="mt11"><u>User Profile</u></string>
+
+    <!--sign in-->
+    <string name="sit1">Mobile</string>
+    <string name="sit2">Password</string>
+    <string name="sib1">Sign In</string>
+
+    <!--nav menu-->
+    <string name="nmt1">User Management</string>
+    <string name="nmt2">Appointment Management</string>
+    <string name="nmt3">Pharmacy Management</string>
+    <string name="nmt4">Report Management</string>
+    <string name="nmt5">Log Out</string>
+
+    <string name="nmn1">Users</string>
+    <string name="nmn2">Appointments</string>
+    <string name="nmn3">Pharmacy</string>
+    <string name="nmn4">Reports</string>
+
+    <!--password dialog-->
+    <string name="pdt1">Change your password</string>
+    <string name="pdt2">Password</string>
+    <string name="pdt3">Re-Type Password</string>
+    <string name="pdb1">Save</string>
+
+    <!--dashboard-->
+    <string name="dbt1">Notifications Broadcast</string>
+    <string name="dbt2">Message</string>
+    <string name="dbt3">Appointments Per Department</string>
+    <string name="dbb1">Send</string>
+
+    <!--appointments-->
+    <string name="apt1">Add An Appointment</string>
+    <string name="apt2">Department:</string>
+    <string name="apt3">Sub Department:</string>
+    <string name="apt4">Date:</string>
+    <string name="apt5">Time Slot:</string>
+    <string name="apb1">Add</string>
+    <string name="apb2">Appointments Management</string>
+
+    <!--pharmacy-->
+    <string name="pcb1">Check Stocks</string>
+    <string name="pct1">Expiry Date:</string>
+    <string name="pct2">Quantity:</string>
+    <string name="pct3">Pharmacy Management</string>
+
+    <!--users-->
+    <string name="ust1">Name:</string>
+    <string name="ust2">Mobile:</string>
+    <string name="ust3">DOB:</string>
+    <string name="ust4">Registered Date:</string>
+    <string name="ust5">User Management</string>
+    <string name="ust6">Request A Document</string>
+    <string name="ust7">Medicine Reviews</string>
+    <string name="ust8">History</string>
+
+    <!--reports-->
+    <string name="rpt1">Review Documents</string>
+    <string name="rpt2">Add Test Results</string>
+    <string name="rpt3">Test:</string>
+    <string name="rpt4">Search User...</string>
+    <string name="rpt5">Result</string>
+    <string name="rpb1">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

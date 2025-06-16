@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">PHosp+</string>
+    <string name="app_full_name">Pocket Hospital</string>
+
+    <!--register-->
+    <string name="rt1">Register</string>
+    <string name="rt2">Name</string>
+    <string name="rt3">Birthday</string>
+    <string name="rt4">City</string>
+    <string name="rt5">Gender</string>
+    <string name="rt6">Mobile</string>
+    <string name="rt7">Password</string>
+    <string name="rt8">You can Add a profile picture in the dashboard once you\'re signed in</string>
+    <string name="rb1">Register</string>
+    <string name="rb2"><u>Already Have an Account? SignIn</u></string>
+
+    <!--sign in-->
+    <string name="sit1">Mobile</string>
+    <string name="sit2">Password</string>
+    <string name="sib1">Sign In</string>
+    <string name="sib2"><u>Do not have an Account? Register</u></string>
+
+    <!--dashboard-->
+    <string name="dt1">Next Appointment:</string>
+    <string name="dt2">Requested Documents:</string>
+    <string name="dt3">Upload Document</string>
+
+    <!--services-->
+    <string name="svt">Services</string>
+
+    <!--reports-->
+    <string name="rpt">Reports</string>
+    <string name="rpt1">Results</string>
+    <string name="rpt2">Result</string>
+    <string name="rpb1">Download</string>
+
+    <!--appointments-->
+    <string name="apt">Appointments</string>
+    <string name="apt_sub">Schedule Your Appointments</string>
+    <string name="apb1">Services/</string>
+    <string name="apb2">Make Appointment</string>
+    <string name="apt1">Department:</string>
+    <string name="apt2">Sub Department:</string>
+    <string name="apt3">Date(Available):</string>
+    <string name="apt4">Time Slot(Available):</string>
+    <string name="apt5">My Appointments</string>
+
+    <!--my appointments-->
+    <string name="mat">My Appointments</string>
+    <string name="mat_sub">Check Your Appointments</string>
+    <string name="mat1">Note: Maximum 2 Appointments</string>
+    <string name="mat2">Appointment History</string>
+    <string name="mab1">Cancel</string>
+    <string name="mab2">New Appointment</string>
+
+    <string name="dtb"><u>Cancel</u></string>
+
+    <!--history-->
+    <string name="hst">My History</string>
+    <string name="hst1">History</string>
+
+    <!--departments-->
+    <string name="dpt">Departments</string>
+    <string name="dpt_sub">Locate a Department</string>
+    <string name="dpt1">Department:</string>
+    <string name="dpt2">Locate</string>
+
+    <!--e-pharmacy-->
+    <string name="ept">E - Pharmacy</string>
+    <string name="ept_sub">Order Your Medicine</string>
+    <string name="ept1">Instructions for ordering using a medical slip</string>
+    <string name="ept2">1. Upload your valid medical slip.\n2. Wait for approval(approximately (2 – 4 h).\n3. Confirm your medicine list.\n4. Make payment.\n5. Wait for instant delivery(8 – 5 work time)</string>
+    <string name="ept3">Add a general medicine</string>
+    <string name="ept4">General medicines can be bought without a valid medical slip and can be used without any instructions but those medicines can not be bought in bulk here and has a limit.</string>
+    <string name="ept5">Select your medicine(max 5):</string>
+    <string name="ept6">Next to continue</string>
+    <string name="ept7">Proceed to make Payment</string>
+    <string name="ept8">Waiting for medical slip validations</string>
+    <string name="epb1">Select Your Medical Slip</string>
+    <string name="epb2">Add</string>
+    <string name="epb3">View List</string>
+    <string name="epb4">Next</string>
+    <string name="epb5">Proceed</string>
+    <string name="epb6">Cancel</string>
+
+    <!--track my steps-->
+    <string name="mst">My Steps</string>
+    <string name="mst_sub">Track your steps here.</string>
+    <string name="mst1">Steps</string>
+    <string name="mst2">Time</string>
+    <string name="mst3">Calories</string>
+    <string name="mst4">Distance</string>
+    <string name="mst5">Today:</string>
+    <string name="mst6">Calories burnt this week</string>
+    <string name="msb1">Start</string>
+    <string name="msb2">End</string>
+
+    <!--about us-->
+    <string name="aut">About us</string>
+    <string name="aut_sub">Karapitiya Hospital, Galle</string>
+    <string name="aub1">Call</string>
+    <string name="aub2">Message</string>
+    <string name="aub3">E-Mail</string>
+    <string name="aut1">Offline</string>
+
+    <!--image dialog-->
+    <string name="idt1">Select</string>
+    <string name="idt2">Save</string>
+    <string name="idt3">Cancel</string>
+
+    <!--password dialog-->
+    <string name="pdt1">Change your password</string>
+    <string name="pdt2">Password</string>
+    <string name="pdt3">Re-Type Password</string>
+    <string name="pdb1">Save</string>
+
+</resources>
