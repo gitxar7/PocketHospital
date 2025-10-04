@@ -1,10 +1,13 @@
-# PocketHospital - Hospital Management System
+<div align="center">
+  <img src="https://github.com/gitxar7/PocketHospital/blob/main/logo.png" alt="PocketHospital Logo" width="200">
+  <h1>PocketHospital - Hospital Management System</h1>
+</div>
 
-## 📋 Project Overview
+## Project Overview
 
 PocketHospital is a comprehensive hospital management system that digitizes healthcare services for Karapitiya Hospital, Galle. The system consists of two Android applications and a Java-based backend service that work together to provide seamless healthcare management solutions.
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Frontend Applications
 
@@ -45,36 +48,36 @@ PocketHospital is a comprehensive hospital management system that digitizes heal
   - Admin panel data services
   - Secure data validation and processing
 
-## 🚀 Key Features
+## Key Features
 
 ### Patient App Features
 
-- **👤 User Management**: Registration, sign-in, profile management
-- **📅 Appointment System**: Schedule, view, and manage medical appointments
-- **📄 Medical Reports**: Access and download medical test results
-- **💊 E-Pharmacy**: Order medicines using medical prescriptions
-- **🚶 Health Tracking**: Step counter and fitness monitoring
-- **🏥 Department Locator**: Interactive maps to find hospital departments
-- **🆘 Emergency Services**: Quick access to emergency contacts
-- **📱 Push Notifications**: Real-time updates and reminders
+- **User Management**: Registration, sign-in, profile management
+- **Appointment System**: Schedule, view, and manage medical appointments
+- **Medical Reports**: Access and download medical test results
+- **E-Pharmacy**: Order medicines using medical prescriptions
+- **Health Tracking**: Step counter and fitness monitoring
+- **Department Locator**: Interactive maps to find hospital departments
+- **Emergency Services**: Quick access to emergency contacts
+- **Push Notifications**: Real-time updates and reminders
 
 ### Admin Panel Features
 
-- **👥 User Administration**: Manage patient accounts and access levels
-- **📊 Analytics Dashboard**: View system usage and patient statistics
-- **🔒 Security Management**: Admin authentication and password controls
-- **📈 Reporting Tools**: Generate system and patient reports
-- **⚙️ System Configuration**: Manage application settings and parameters
+- **User Administration**: Manage patient accounts and access levels
+- **Analytics Dashboard**: View system usage and patient statistics
+- **Security Management**: Admin authentication and password controls
+- **Reporting Tools**: Generate system and patient reports
+- **System Configuration**: Manage application settings and parameters
 
 ### Backend API Features
 
-- **🔐 Authentication**: Secure login for patients and administrators
-- **💾 Data Management**: CRUD operations for all system entities
-- **🔄 Real-time Sync**: Live data synchronization between apps
-- **📡 RESTful APIs**: Standardized endpoints for mobile communication
-- **🛡️ Data Validation**: Comprehensive input validation and sanitization
+- **Authentication**: Secure login for patients and administrators
+- **Data Management**: CRUD operations for all system entities
+- **Real-time Sync**: Live data synchronization between apps
+- **RESTful APIs**: Standardized endpoints for mobile communication
+- **Data Validation**: Comprehensive input validation and sanitization
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Mobile Applications (Android)
 
@@ -102,7 +105,7 @@ PocketHospital is a comprehensive hospital management system that digitizes heal
   - Hibernate ecosystem libraries
   - Connection pooling (C3P0)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ProjectPocketHospital/
@@ -129,7 +132,7 @@ ProjectPocketHospital/
 └── project_report.pdf             # Detailed project documentation
 ```
 
-## 🔧 Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 
@@ -191,7 +194,7 @@ ProjectPocketHospital/
    ./gradlew assembleDebug
    ```
 
-## 🔗 API Endpoints
+## API Endpoints
 
 ### User Management
 
@@ -207,7 +210,7 @@ ProjectPocketHospital/
 - `POST /AdminChangePassword` - Admin password update
 - `GET /GetData` - Retrieve system data
 
-## 🤝 Contributing
+## Contributing
 
 This project was developed as part of a hospital management system initiative. For contributions:
 
@@ -216,17 +219,20 @@ This project was developed as part of a hospital management system initiative. F
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 This project is developed for educational and healthcare improvement purposes. Please refer to the institution's guidelines for usage and distribution.
 
-## 📞 Support
+## Support
 
 For technical support and inquiries:
 
-- **Development Team**: AR7 Enterprise (Abdur Rahman Hanas)
+- **Developer**: Abdur Rahman Hanas
+- **Email**: nxt.genar7@gmail.com
+- **GitHub**: [@gitxar7](https://github.com/gitxar7)
+- **Organization**: AR7 Enterprise
 
-## 🔒 Security Notice
+## Security Notice
 
 This system handles sensitive medical data. Ensure proper security measures are implemented:
 
@@ -235,7 +241,7 @@ This system handles sensitive medical data. Ensure proper security measures are 
 - Regular security audits
 - Comply with healthcare data protection regulations
 
-## 📋 Version History
+## Version History
 
 - **v1.0**: Initial release with core functionality
 - Backend API with user management
