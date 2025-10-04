@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/gitxar7/PocketHospital/blob/main/logo.png" alt="PocketHospital Logo" width="100%">
   <h1>PocketHospital - Hospital Management System</h1>
+  <img src="https://github.com/gitxar7/PocketHospital/blob/main/logo.png" alt="PocketHospital Logo" width="100%">
 </div>
 
 ## Project Overview
